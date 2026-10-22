@@ -4,6 +4,14 @@ A small, independent personal-media player for Samsung's **pre-Tizen Orsay Smart
 
 **Community beta.** The standalone playback and subtitle workflow has been tested on a Samsung UN55H6203 with firmware 1230. The new generic connection-setup screen has automated checks but still needs testing on additional TVs. Other Orsay models are unverified. This is not a Tizen application.
 
+## Screenshots
+
+The browser previews below show the real interface. The poster-wall image uses synthetic titles and original sample artwork, not a personal library or proof of TV playback.
+
+![Welcome and Connect button](screenshot-welcome.png)
+![TV-side server setup](screenshot-setup.png)
+![Poster wall with synthetic sample titles](screenshot-wall.png)
+
 ## What it does
 
 - Movies and TV Shows, without recommendation feeds.
@@ -40,7 +48,7 @@ Requirements: Python 3 on an installation computer, a compatible Samsung TV with
 3. On the tested H6203: **Menu → Smart Hub → Samsung Account → Sign In**. Use the developer account ID `develop`; the tested firmware accepted a blank password. Developer login behavior varies by firmware.
 4. In Samsung Apps, highlight an installed app and hold **OK/Enter**. Choose **IP Setting**, enter the installation computer's address, save, then choose **Start User App Sync**. On the tested firmware, reopening IP Setting showed blank boxes even after saving; sync immediately after saving.
 5. Reopen Smart Hub and launch **Orsay Cinema**.
-6. Enter your Plex server's address, including its port (usually `32400`), using the on-screen keyboard. For example, use your own server hostname; no address is built into the app.
+6. Choose **Connect to Plex server**, then enter your Plex server's address, including its port (usually `32400`), using the on-screen keyboard. For example, use your own server hostname; no address is built into the app.
 7. If your server requires authentication, configure **Tools → Set Plex token** with your own token. See [Plex's token documentation](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/). Do not disable authentication or publish your token to make this app work.
 8. Stop the installation server and test playback and subtitle search/download again. The TV app should connect directly to Plex.
 
