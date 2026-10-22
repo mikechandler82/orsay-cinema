@@ -100,3 +100,7 @@ Browser previews can test interface behavior; they cannot validate the Samsung p
 This project is not affiliated with or endorsed by Plex or Samsung. Plex and Samsung are trademarks of their respective owners. “Compatible with Plex Media Server” describes interoperability, not endorsement. The film-strip icon is original project artwork and is not the Plex chevron.
 
 Project code and artwork are available under the [MIT license](LICENSE). That license does not grant rights to third-party trademarks, media, Samsung system software or Plex services. See [NOTICE.md](NOTICE.md), [PRIVACY.md](PRIVACY.md) and [SECURITY.md](SECURITY.md).
+
+## Support
+
+If this project helped you give an old TV another useful life, [buy me a coffee](https://paypal.me/MikeChandler82). Tips are optional; the app remains free and open source.
