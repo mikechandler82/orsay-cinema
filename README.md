@@ -103,4 +103,10 @@ Project code and artwork are available under the [MIT license](LICENSE). That li
 
 ## Support
 
-If this project helped you give an old TV another useful life, [buy me a beer](https://paypal.me/MikeChandler82). Tips are optional; the app remains free and open source.
+If this project helped you give an old TV another useful life, buy me a beer:
+
+- [PayPal](https://paypal.me/MikeChandler82)
+- [Venmo](https://venmo.com/MikeChandler82)
+- [Cash App](https://cash.app/$MikeChandler1982)
+
+Tips are optional; the app remains free and open source.
