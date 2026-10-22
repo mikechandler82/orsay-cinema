@@ -103,7 +103,7 @@ Project code and artwork are available under the [MIT license](LICENSE). That li
 
 ## Support
 
-If this project helped you give an old TV another useful life, buy me a beer:
+If this project helped you give an old TV another useful life, you can buy me a beer:
 
 - [PayPal](https://paypal.me/MikeChandler82)
 - [Venmo](https://venmo.com/MikeChandler82)
