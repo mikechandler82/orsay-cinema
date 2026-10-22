@@ -17,6 +17,12 @@ A small, independent personal-media player for Samsung's **pre-Tizen Orsay Smart
 
 You still need a reachable Plex server. Subtitle searches/downloads need internet connectivity and whatever access Plex/provider policy requires. Transcoding capability, performance and entitlement depend on your Plex setup.
 
+## Prefer AI-assisted setup?
+
+Open this repository in **Codex, Claude Code, or another local coding agent**, then copy the [guided setup prompt](AI_SETUP_PROMPT.md). The agent can run checks, build the widget, prepare a multi-app-safe sync catalog, watch the download log, and guide you through the TV remote steps. You confirm actual playback and the final installation-server-off test.
+
+The same file includes a shorter troubleshooting prompt. [AGENTS.md](AGENTS.md) provides durable project guidance, and [CLAUDE.md](CLAUDE.md) points to it for other workflows. No OpenAI/Anthropic API integration or API key is built into the TV app.
+
 ## Install
 
 Requirements: Python 3 on an installation computer, a compatible Samsung TV with developer app synchronization, and a Plex server you are authorized to use. Node.js is only needed for development tests.
